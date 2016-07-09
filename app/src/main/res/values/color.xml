@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="background_color">#FF6600</color>
+    <color name="success_text_color">#ff04ff02</color>
+    <color name="failure_text_color">#ffffff</color>
+    <color name="clicked">#ffb5b5b5</color>
+    <color name="normal">#000000</color>
+</resources>

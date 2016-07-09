@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NfcApplication</string>
+    <string name="details_not_found">Detalji nije pronađen za ovu karticu</string>
+    <string name="enter_location" >Unesite mjesto</string>
+    <string name="failure_message" >Limit je\nizkorišten.\nMolimo kontaktirajte\norganizatora.</string>
+    <string name="nfc_disabled_information" >Molimo uključite svoj NFC</string>
+    <string name="nfc_enabled_information" >Približite\nkarticu čitaču</string>
+    <string name="processing" >Obrada ..</string>
+    <string name="nfc_not_supported_information" >Ovaj uređaj ne podržava NFC.</string>
+    <string name="success_message" >Transakcija\nje uspješno\nzavršena.</string>
+    <string name="amount_empty_message" >Iznos ne može biti prazno!</string>
+    <string name="confirm">Potvrditi</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_transaction">TransactionActivity</string>
+    <string name="title_activity_transaction_result">TransactionResult</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+    <string name="enter_amount_text">Unesite\niznos računa</string>
+</resources>
+
+<!--
+<resources>
+    <string name="app_name">NfcApplication</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_transaction">TransactionActivity</string>
+    <string name="title_activity_transaction_result">TransactionResult</string>
+    <string name="nfc_enabled_information" >Please Lift \nCard to the Reader</string>
+    <string name="nfc_disabled_information" >Please turn ON your NFC</string>
+    <string name="nfc_not_supported_information" >This device doesn\'t support NFC.</string>
+    <string name="success_message" >Transaction\nwas\nsuccessful.</string>
+    <string name="failure_message" >Card is over\nlimit.\nPlease contact organizer.</string>
+    <string name="processing" >Processing..</string>
+    <string name="details_not_found" >Details not Found for this card!</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+    <string name="enter_location" >Enter location</string>
+    <string name="amount_empty_message" >Amount cannot be Empty!</string>
+    <string name="confirm">Confirm</string>
+</resources>
+-->
